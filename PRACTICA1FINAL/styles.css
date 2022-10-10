@@ -9,7 +9,7 @@
 /*CUERPO*/
 
 body{
-    background: black;
+    background: linear-gradient(10deg, rgb(30, 2, 1),black );
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
